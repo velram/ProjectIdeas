@@ -1,0 +1,8 @@
+
+Sangam Tamil literature related ideas 
+
+1. Build word corpus from Sangam literature called "Kurunthogai" ()
+
+2. Tweet bot to post "Daily one Sangam Tamil word from Sangam literature" ("தினம் ஒரு சங்கத் தமிழ்ச் சொல்") - Git hub repo created
+
+3. Update Tweet bot to fetch data from "WikiSource" and post "Daily One Tamil word"
